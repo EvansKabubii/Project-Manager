@@ -29,8 +29,9 @@
 }
 .navbar-links li {
   cursor: pointer;
-  transition: color 0.2s;
+  transition:  0.5s;
 }
 .navbar-links li:hover {
   color: #e63946;
+  transition: 0.5s;
 }
